@@ -1,0 +1,37 @@
+input{
+    width: 150px;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border-radius: 10px;
+    color: rgb(247, 253, 253);
+    background-color: rgb(14, 3, 3);
+    border: 2px solid aqua;
+    border-style: outset;
+
+}
+/*input-button{
+    width: 600px;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border-radius: 10px;
+    color: aqua;
+    background-color: rgb(135, 123, 123);
+    border: 2px solid aqua;
+    border-style: outset;
+}
+*/
+#myForm{
+    margin-left: 225px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+ h1{
+    color: aqua;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+
+}
